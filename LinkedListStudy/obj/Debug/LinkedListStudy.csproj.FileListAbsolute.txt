@@ -1,0 +1,6 @@
+D:\Projects\LinkedListStudy\LinkedListStudy\bin\Debug\LinkedListStudy.exe.config
+D:\Projects\LinkedListStudy\LinkedListStudy\bin\Debug\LinkedListStudy.exe
+D:\Projects\LinkedListStudy\LinkedListStudy\bin\Debug\LinkedListStudy.pdb
+D:\Projects\LinkedListStudy\LinkedListStudy\obj\Debug\LinkedListStudy.csprojResolveAssemblyReference.cache
+D:\Projects\LinkedListStudy\LinkedListStudy\obj\Debug\LinkedListStudy.exe
+D:\Projects\LinkedListStudy\LinkedListStudy\obj\Debug\LinkedListStudy.pdb
